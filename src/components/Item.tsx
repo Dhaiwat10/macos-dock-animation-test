@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Box, Image, chakra, VStack, Text } from '@chakra-ui/react';
 import { AnimatePresence, isValidMotionProp, motion } from 'framer-motion';
 import { FC, useEffect, useRef } from 'react';
